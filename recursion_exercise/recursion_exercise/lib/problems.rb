@@ -111,6 +111,6 @@ end
 
 def flatten(data)
 
-    return data if data != data.to_a 
+
 
 end
